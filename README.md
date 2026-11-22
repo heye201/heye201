@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal-banner.svg" alt="Terminal de apresentação de Eduardo Martins: desenvolvimento backend, segurança e pesquisa em IA" width="100%" />
+  <img src="./terminal-banner.svg" alt="Terminal de apresentação de Eduardo Martins: desenvolvimento backend, segurança e pesquisa em IA" width="100%" />
 
   <a href="mailto:edrmartinss@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1418?style=for-the-badge&logo=gmail&logoColor=00D9A6" alt="Enviar e-mail" /></a>
   <a href="https://www.linkedin.com/in/eduardo-martins-258b5116a/"><img src="https://img.shields.io/badge/LINKEDIN-0B1418?style=for-the-badge&logo=linkedin&logoColor=00D9A6" alt="LinkedIn de Eduardo Martins" /></a>
@@ -35,7 +35,7 @@ Desenvolvo soluções backend e automações, estudo segurança na prática e pe
 
 ## `eduardo@ufg:~$ ls projetos/`
 
-- **AssetGuard GRC** — protótipo em FastAPI e SQLite para inventário de ativos de TI e gestão de acessos.
+- **AssetGuard** — protótipo em FastAPI e SQLite para inventário de ativos de TI e gestão de acessos.
 - **Hackbot Multiagente** — estudo em andamento sobre orquestração de LLMs locais e remotos, terminal e ferramentas MCP em fluxos de segurança.
 - **Intelectualismo Negro** — aplicação web para a disciplina de Tópicos em Filosofia da UFG.
 - **Pesquisa em NLP e LLMs** — extração de informações estruturadas de textos jornalísticos em iniciação científica na UFG.
